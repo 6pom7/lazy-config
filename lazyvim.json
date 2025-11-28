@@ -1,6 +1,7 @@
 {
   "extras": [
     "lazyvim.plugins.extras.coding.nvim-cmp",
+    "lazyvim.plugins.extras.editor.telescope",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.dart",
     "lazyvim.plugins.extras.lang.json",
